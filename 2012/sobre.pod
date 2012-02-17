@@ -1,0 +1,231 @@
+
+=encoding utf8
+
+=head1 YAPC::Brasil::2012 — A revolução dos dados
+
+=head2 Sobre o Evento
+
+A edição 2012 do YAPC::Brasil tem «Big Data» como assunto central. A
+programação inclui mini-cursos, palestras e debates sobre o estado da arte em
+tecnologia para captura, armazenamento, busca, compartilhamento, análise, e
+visualização de grandes quantidades dados.
+
+São Paulo hospeda em 2012 a sétima edição da YAPC::Brasil, realizada desde
+2005 nas cidades de Porto Alegre, Recife, Rio de Janeiro, Fortaleza e São
+Paulo. Além de proporcionar uma grande experiência social para a comunidade de
+desenvolvedores a YAPC::Brasil quer também aproximar os novos desenvolvedores
+da comunidade e estabelecer um diálogo formal com profissionais e
+pesquisadores de outras áreas de conhecimento como Comunicação Social
+—Jornalismo de Dados— e Biologia.
+
+A comunidade Perl é formada por membros oriundos das mais diversas formações e
+com os mais diversos interesses: estudantes, empreendedores, pesquisadores
+tanto das áreas clássicas como Ciências da Computação, Matemática e
+Engenharias com das áreas de Ciências Biológicas e Ciências Sociais e Humanas.
+Outro diferencial da comunidade Perl é a proporção de desenvolvedores que
+contribuem para o desenvolvimento da linguagem em si pela recepção existente
+na comunidade para o desenvolvimento e a inovação tecnológica.
+
+O desafio de lidar com grandes massas de dados está a tornar-se parte da
+realidade de uma gama cada vez maior de profissionais e pesquisadores. Os
+assuntos em detaque na YAPC::Brasil::2012 são Jornalismo de Dados, Dados
+Abertos e Semântica, Extração e Visualização de Grandes Dados. 
+
+=head3 Assuntos
+
+=over 4
+
+=item Jornalismo de Dados
+
+Fomentar o diálogo entre hackers e jornalistas sobre as novas interseções
+entre Software e Comunicação Social. O debate contemplará extração,
+armazenamento, processamento e veiculação de Big Data e também as questões
+sociais relacionadas ao jornalismo de dados como transparência governamental e
+corporativa, ativismo digital, liberdade de expressão, privacidade, dados
+abertos, vazamento de informações e compartilhamento de bens digitais.
+
+Em destaque a interseção entre jornalismo de imagem e visualização de dados e
+o desafio de criar representações criativas e compreensíveis a partir dos
+dados obtidos e processados.
+
+=item Big Data
+
+Grandes quantidades de dados, que aumentam de diversas formas e exigem um
+gerenciamento e um monitoramento de perto, esta é a discussão em relação em
+como tecnicas de armazenamento, busca, compartilhamento, analise e
+visualização. 
+
+=item Negócios, Politicas e Privacidade
+
+Analisar, Entender, Abstrair, Complicar informações é um trabalho de muitas
+empresas, e além disto é também um debate sobre como isto pode influenciar
+politicamente a questão dos produtos criados baseado em dados públicos ou
+privados.
+
+=item Data Science
+
+Durante a epidemia da gripe suína de 2009, o Google foi capaz de acompanhar o
+andamento da epidemia por pesquisas realizadas pelas regiões mais afetadas. A
+Amazon guarda todas as suas buscas para relacionar posteriormente com outros
+usuários quando efetuarem pesquisas ajudarem a encontrar produtos realmente
+desejados, estas recomendações são "dados de produtos" no qual ajuda a Amazon
+a ter um modelo de negócio mais rentável, e por este motivo que a Amazon
+entende que um livro, não é apenas um livro, ou uma camera apenas uma camera,
+e um consumidor apenas um consumidor, os usuários geram um "rastro enorme de
+dados" que pode ser utilizados de formas muito espertas.  
+
+John Rause diz que "Data science" é uma disciplina florescente, combinando
+matemática, engenharia, redação e ceticismo em igual medida. 
+
+=item Bioinformática e Biologia Computacional.
+
+Na edição deste ano o evento irá oferecer a oportunidade para que os
+profissioais da área biológica e da saúde possam se reunir e interagir com
+profissionais da computação. O objetivo será aproximar biólogos, bioquímicos,
+bioinformatas e demais profissionais da biologia que trabalham com análise e
+desenvolvimento com pofissionais da comunidade Perl do Brasil. Os
+Profissionais da área biológica e da saúde possuem cada vez mais a necessidade
+de lidar com diferentes tipos, formatos e principalmente grandes quantidades
+de dados que cada vez mais exigem das pessoas conhecimento em matemática,
+estatística e programação. Discutiremos o papel de bioinformatas na biologia
+moderna, atuais tecnologias para geração de dados biológicos e importância de
+ferramentas e plataformas open source no mundo da biologia.
+
+=back
+
+=head3 Data
+
+5 e 6 de Outubro de 2012.
+
+=head3 Público Alvo
+
+=over 4
+
+=item Comunidade Perl;
+
+=item Desenvolvedores e profissionais de TIC;
+
+=item Jornalistas e profissionais de Comunicação Social;
+
+=item Profissionais das áreas biológicas e da saúde;
+
+=item Empreendedores e Gestores de Tecnologia;
+
+=back
+
+=head3 Inscrições
+
+(Valor será definido posteriormente, não tem como ser definido agora)
+
+=head3 Local do evento
+
+(A Definir)
+
+=head3 Cronograma
+
+    1 de Março - Website no ar.
+    15 de Março - Abertura para receber propostas de palestras.
+    15 de Abril - Abertura de inscrições
+    1 de Junho - Encerramento para receber propostas de palestras.
+    15 de Junho - Divulgação da grade de palestras.
+    5 e 6 de Outubro - Evento.
+
+=head3 Necessidades que iremos buscar junto a parceiros
+
+    * Local para o evento com pelo menos 3 salas.
+    * Tradutores disponível nos dois dias de evento.
+    * Coffee Break
+    * Gravação das palestras para serem disponibilizadas posteriormente.
+    * Banners para o dia do evento com o logotipo dos patrocinadores.
+    * Tecnicos de som/audio
+    * Segurança
+    * Credenciamento (Crachás, Logistica do dia)
+    * Coordenador de atividades
+    * Camisetas
+    * Lógica financeira (recebimento e emissão de nota fiscal)
+    * Pagamento on-line (pagseguro, paypal, ...)
+    * Passagem e Hospedagem de palestrantes internacionais.
+    * Comunicação visual (Revisão de material que será impresso)
+    * Press release
+
+=head2 Edições Anteriores
+
+=head3 2010
+
+Na sua primeira edição em 2010, o evento foi focado em desenvolvimento web,
+contando com palestrantes como Tomas Doran, especialista em web services,
+Thiago Rondon, especialista em VoIP e Eden Cardim, especialista em arquitetura
+de aplicações web. Foram abordados os conceitos fundamentais de
+desenvolvimento web, assim como algumas tecnologias bem-estabelecidas da
+atualidade, como de processamento e conceitos mais inovadores como
+meta-programação aplicada à web.
+
+O evento foi realizado em parceria com o iG.
+
+=head3 2011
+
+O tema da edição de 2011 foi "Desenvolvimento Ágil no Mundo Real", em alusão
+às técnicas de desenvolvimento ágil que ganharam espaço ao longo da primeira
+década do século 21. Foram abordadas ferramentas para desenvolvimento baseado
+em testes, integração contínua, otimização e refatoração. Entre os diversos
+palestrantes, contamos com a participação do Larry Wall (criador da linguagem
+Perl), Brad FitzPatrick (fundou o livejournal, memcached, gearmand e mogilefs)
+e Brian D foy (Criador da revista Perl Review e co-author de diversos livros).
+
+Este evento foi patrocinado pela Estante Virtual, globo.com, Ibiz, Caelum e
+apoio da W3C, O'Reilly e Oliveira e Zago.
+
+=head2 Sobre São Paulo
+
+São Paulo é a maior cidade da América Latina e o coração econômico da oitava
+maior economia do planeta. O crescimento de São Paulo a transformou num centro
+cosmopolita incontestável no continente e propulsiona o desenvolvimento de
+tecnologia em diversas áreas.
+
+=head2 Organização
+
+O comitê organizador do Perl Conference Brasil é co
+mposto por uma equipe de gestão e uma equipe de apoio, das quais são
+participantes:
+
+=head2 Apoio
+
+A equipe de apoio será composta por voluntários membros da comunidade perl
+nacional, sobretudo dos membros do São Paulo Perl Mongers.
+
+=head2 Por que associar sua marca ?
+
+=head3 Qualidade Técnica 
+
+A comunidade perl é reconhecida internacionalmente pelas contribuições em
+inovação tecnológica e comprometimento minucioso com a execução tecnicamente
+precisa de projetos de TI. As ferramentas de garantia de qualidade
+desenvolvidas pela comunidade perl são aplicadas em larga escala dentro de
+projetos como MySQL, Linux e o Projeto Genoma, assim como organizações como
+Cisco e Nasa. Associar-se à comunidade Perl significa ter tradição e
+compromisso com TI.
+
+=head3 Visibilidade
+
+A unificação trazida pelo CPAN (o maior repositório de software livre do
+mundo) e pela estruturação centralizada das comunidades traz uma forte coesão
+entre os membros da comunidade. Por isso, os eventos envolvendo perl são
+rapidamente propagados pela comunidade internacional. O website do grupo São
+Paulo Perl Mongers é bastante movimentado, contando com 480 acessos diários,
+em média, chegando a 400 acessos diários durante os equinócios.
+A presença notável de Larry Wall também atrai atenção de todas as comunidades
+relacionadas a software livre, não só a de Perl. A organização do evento está
+fazendo um trabalho minucioso de divulgação nas comunidades de software livre
+nacionais e internacionais. O evento terá uma revista pre- liminar contando
+com artigos técnicos, que será distribuída gratuitamente em cursos de
+graduação vinculados a TI. Assim, a associação com o evento irá garantir uma
+excelente exposição no mercado de TI vinculado a software livre.
+
+=head3 Website
+
+Iremos organizar todas as informações relativas ao evento nele, no qual terá
+uma wiki com informações referentes ao evento, uma agenda no qual será
+possível visualizar toda a grade de atividades do evento, além de poder
+efetuar inscrição no evento.
+
+=cut
