@@ -97,7 +97,7 @@ sugiro o seguinte
 
 =over 4
 
-=item - Solli Honório
+=item * Solli Honório
 
 =back
 
