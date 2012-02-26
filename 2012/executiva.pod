@@ -1,9 +1,5 @@
 =encoding utf8
 
-Tendo passado o Carnaval é tempo de nos reunirmos com mais eficácia para
-prepararmos o projeto do evento. Ainda aguardamos a confirmação da data
-e do local, mas está encaminhado. 
-
 =head1 YAPC::Brasil 2012 
 
 As palestras e mesas-redondas da YAPC::Brasil 2012 dividem-se em quatro
@@ -11,10 +7,15 @@ temáticas. A tradicional Perl Hacking e três altamente
 interdisciplinares:
 
 =over 4
+
 =item * Jornalismo de Dados
+
 =item * Big Data
+
 =item * Bioinformática
+
 =item * Perl Hacking
+
 =back
 
 As reuniões seguem sábado 10h no canal #yapcbrasil do irc://irc.perl.org
@@ -25,74 +26,121 @@ Vamos estabelecer alguns modelos de turno para as programações. Eu
 sugiro o seguinte
 
 =head2 Turno regular
+
 =over 4
+
 =item * Uma palestra de 20min (janela de 30min)
+
 =item * Uma debate de 20min (janela de 30min)
+
 =item * Intevalo (janela de 30min)
+
 =item * Uma oficina (Happy Hacking) de 2h
+
 =back
 
 =head2 Turno c/ palestra âncora
+
+=over 4
+
 =item * Credenciamento (janela de 1h)
+
 =item * Intervalo (janela de 30min)
+
 =item * Palestra âncora (janela de 1h)
+
 =item * Palestras de 5min (janela de 1h)
+
 =back
 
 =head1 Papéis
 
 =head2 Coordenação Geral
+
 =over 4
+
 =item * Leonardo Ruoso
+
 =item * Thiago Rondon (apoio) 
+
 =back
 
 =head1 Coordenações Temáticas
+
 =head2 Jornalismo de Dados
 
 =over 4 
+
 =item * Leonardo Ruoso 
+
 =item * Claylson Martins (convidado)
+
 =back 
 
 =head2 Big Data
+
 =over 4
+
 =item * Lindolfo Rodrigues
+
 =back
 
 =head2 Bioinformática
+
 =over 4
+
 =item * Felipe Leprevost
+
 =back
+
 =head2 Empreendedorismo e Políticas Públicas
+
 =over 4
+
 =item - Solli Honório
+
 =back
 
 =head2 Perl Hacking
+
 =over 4
+
 =item * Márcio Ferreira
+
 =item * Breno Oliveira (Palestrantes Internacionais)
+
 =back 
 
 =head1 Infraestrutura e Suporte
 
 =head2 Captação de Recursos (Apoio e Patrocínio)
+
 =over 4
+
 =item * Thiago Rondon
+
 =back 
 
 =head2 Assessoria de Comunicação
+
 =over 4
+
 =item * Leonardo Ruoso
+
 =back
 
 =head2 Website e Redes Sociais 
+
 =over 4
+
 =item * Daniel Vinciguera (Layout)
+
 =item * Nuba (ACT)
+
 =item * Daniel Mantovani (Widgets)
+
 =item * Lindolfo Lorn (Cobrança)
+
 =back
 
 =cut
